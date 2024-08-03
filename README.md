@@ -1,2 +1,2 @@
 # UnitZo
-Android Studio Project on Kilogram to Pounds Converter.
+Android Studio Project for Kilogram to Pounds Converter.
